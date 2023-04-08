@@ -1,0 +1,15 @@
+E:\dotnet\design-patterns\SingltonDemo\bin\Debug\net6.0\SingltonDemo.exe
+E:\dotnet\design-patterns\SingltonDemo\bin\Debug\net6.0\SingltonDemo.deps.json
+E:\dotnet\design-patterns\SingltonDemo\bin\Debug\net6.0\SingltonDemo.runtimeconfig.json
+E:\dotnet\design-patterns\SingltonDemo\bin\Debug\net6.0\SingltonDemo.dll
+E:\dotnet\design-patterns\SingltonDemo\bin\Debug\net6.0\SingltonDemo.pdb
+E:\dotnet\design-patterns\SingltonDemo\obj\Debug\net6.0\SingltonDemo.csproj.AssemblyReference.cache
+E:\dotnet\design-patterns\SingltonDemo\obj\Debug\net6.0\SingltonDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet\design-patterns\SingltonDemo\obj\Debug\net6.0\SingltonDemo.AssemblyInfoInputs.cache
+E:\dotnet\design-patterns\SingltonDemo\obj\Debug\net6.0\SingltonDemo.AssemblyInfo.cs
+E:\dotnet\design-patterns\SingltonDemo\obj\Debug\net6.0\SingltonDemo.csproj.CoreCompileInputs.cache
+E:\dotnet\design-patterns\SingltonDemo\obj\Debug\net6.0\SingltonDemo.dll
+E:\dotnet\design-patterns\SingltonDemo\obj\Debug\net6.0\refint\SingltonDemo.dll
+E:\dotnet\design-patterns\SingltonDemo\obj\Debug\net6.0\SingltonDemo.pdb
+E:\dotnet\design-patterns\SingltonDemo\obj\Debug\net6.0\SingltonDemo.genruntimeconfig.cache
+E:\dotnet\design-patterns\SingltonDemo\obj\Debug\net6.0\ref\SingltonDemo.dll
